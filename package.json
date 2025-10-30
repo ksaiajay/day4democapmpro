@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A simple CAP project.",
   "dependencies": {
+    "@cap-js-community/odata-v2-adapter": "^1.15.5",
+    "@cap-js/telemetry": "^1.5.4",
     "@sap/cds": "^9",
     "express": "^4"
   },
